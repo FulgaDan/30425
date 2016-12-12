@@ -1,0 +1,12 @@
+<?xml version="1.0"?><content>
+<ANIMAL>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Whale</name>
+	<maintenanceCost>8.0</maintenanceCost>
+	<dangerPerc>0.4</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<avgSwimDepth>80</avgSwimDepth>
+	<waterType>saltWater</waterType>
+	<DISCRIMINANT>Whale</DISCRIMINANT>
+</ANIMAL>
+</content>
